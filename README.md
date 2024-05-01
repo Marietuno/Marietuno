@@ -1,6 +1,6 @@
 
 # Título del Proyecto 
-![Imagen portada](img/pixel.png)
+![Imagen portada](img/inosuke-demon-slayer.gif)
 ## Descripción 
 Breve descripción del proyecto, objetivos y funcionalidades principales. 
 ## Características - Característica 1 - Característica 2 - Característica 3 
