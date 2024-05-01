@@ -1,3 +1,4 @@
+![Imagen portada](img/pixel.png)
 ### Heyy 👋
 
 <!--
