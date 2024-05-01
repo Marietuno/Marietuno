@@ -1,14 +1,10 @@
 
-# Título del Proyecto 
+# GitHub de Marietuno
 ![Imagen portada](img/inosuke-demon-slayer.gif)
 ## Descripción 
-Breve descripción del proyecto, objetivos y funcionalidades principales. 
-## Características - Característica 1 - Característica 2 - Característica 3 
-## Instalación 
-Instrucciones para instalar y configurar el proyecto. 
-## Uso 
-Guía rápida sobre cómo utilizar el proyecto y ejemplos de código. 
+En este GitHub encontrarás todos los proyectos (que me interese mostrar) realizados y a realizar. 
+## Este perfil está en crecimiento constante
 ## Contribución 
-Información sobre cómo contribuir al proyecto, directrices para enviar pull requests y reportar issues. 
+No dudes en comentar o mandar algún "issue" en caso de que existiera alguno en algún proyecto. 
 ## Licencia 
-Licencia bajo la cual se distribuye el proyecto. 
+Me tomo la licencia de escoger las licencias pertinentes para cada proyecto. 
