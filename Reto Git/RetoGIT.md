@@ -14,4 +14,4 @@ Para su realización hemos utilizado diferentes screenshoots para corroborar que
   - Fusionar ramas (*merge*)
   - Utilizar Markdown (como ahora mismo)
 
-
+![Logo Uax](img/logouax.png)
